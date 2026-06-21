@@ -23,7 +23,7 @@
 
 ---
 <p align="right">
-  <img src="https://img.shields.io/badge/Profile_Views-Emiros71-blue?style=flat-square" alt="Views" />
+  <img src="https://profile-counter.glitch.me/Emiros71/count.svg" alt="Profile Views Counter" />
 </p>
 
 <!-- Optimized & Organized Profile README -->
