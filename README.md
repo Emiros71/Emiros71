@@ -21,12 +21,11 @@
 ### 🗂️ Top Languages:
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Emiros71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ---
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Emiros71&icon=eye&color=cyan" alt="Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Emiros71&theme=dark&column=1" alt="Views" style="display:none;" />
+  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f440.png" width="16" /> <i>Profile Views:</i> <img src="https://projects.serioussam.cc/counter/api/Emiros71" alt="Views Counter" />
 </p>
 
 <!-- Optimized & Organized Profile README -->
