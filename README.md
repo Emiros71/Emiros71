@@ -21,8 +21,5 @@
 ### 🗂️ Top Languages:
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Emiros71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
----
-### 👁️ Profile Views:
-[![Visitor Count](https://profile-counter.glitch.me/Emiros71/count.svg)](https://github.com/Emiros71)
 
 <!-- Optimized & Organized Profile README -->
