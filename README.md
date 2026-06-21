@@ -23,7 +23,7 @@
 
 ---
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmiros71&count_bg=%23007ACC&title_bg=%23555555&title=Profile+Views" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Emiros71" alt="Views" />
 </p>
 
 <!-- Optimized & Organized Profile README -->
